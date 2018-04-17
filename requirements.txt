@@ -1,0 +1,14 @@
+jupyter
+
+# data analysis libraries
+pandas
+numpy
+
+# plotting libraries
+seaborn
+matplotlib
+
+# ML libraries
+sklearn
+keras
+tensorflow-gpu
